@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiCertKeyProvider", "MultiCertKeyProvider.csproj", "{86C4BE00-547D-41D2-BB51-388707E5667E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86C4BE00-547D-41D2-BB51-388707E5667E}.Debug|x64.ActiveCfg = Debug|x64
+		{86C4BE00-547D-41D2-BB51-388707E5667E}.Debug|x64.Build.0 = Debug|x64
+		{86C4BE00-547D-41D2-BB51-388707E5667E}.Release|x64.ActiveCfg = Release|x64
+		{86C4BE00-547D-41D2-BB51-388707E5667E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82721776-D697-475B-8F92-9F57E01EE2F9}
+	EndGlobalSection
+EndGlobal
